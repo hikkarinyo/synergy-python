@@ -1,1 +1,1 @@
-# synergy-python
+# Python — Практические задания
